@@ -49,7 +49,7 @@ BEGIN
             VALUE "FileDescription", "TiEmu\0"
             VALUE "FileVersion", "2, 0, 0, 0\0"
             VALUE "InternalName", "TiEmu\0"
-            VALUE "LegalCopyright", "Copyright © 2001 Thomas Corvazier & Romain Liévin, 2002 Romain Liévin\0"
+            VALUE "LegalCopyright", "Copyright Â© 2001 Thomas Corvazier & Romain LiÃ©vin, 2002 Romain LiÃ©vin\0"
             VALUE "OriginalFilename", "TiEmu.exe\0"
             VALUE "PrivateBuild", "Build #1\0"
             VALUE "ProductName", "Multiplatform TI89/92/92+ emulator (Linux/Win32)\0"
